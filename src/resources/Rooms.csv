@@ -10,4 +10,4 @@
 205,Double,68.0,32.0,true,double-bed,2,0,rm205
 301,Suite,100.0,54.0,true,double-bed,5,0,rm301
 302,Suite,100.0,54.0,true,double-bed,5,0,rm302
-303,Deluxe,150.0,70.0,false,double-bed,10,5,rm303
+303,Deluxe,150.0,70.0,true,double-bed,10,0,rm303
