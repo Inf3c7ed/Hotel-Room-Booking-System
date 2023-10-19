@@ -1,0 +1,13 @@
+101,Single,35.0,15.0,true,single-bed,1,0,rm101
+102,Single,35.0,15.0,true,single-bed,1,0,rm102
+103,Single,35.0,15.0,true,single-bed,1,0,rm103
+104,Single,35.0,15.0,true,single-bed,1,0,rm104
+105,Single,35.0,15.0,true,single-bed,1,0,rm105
+201,Double,68.0,32.0,true,double-bed,2,0,rm201
+202,Double,68.0,32.0,true,double-bed,2,0,rm202
+203,Double,68.0,32.0,true,double-bed,2,0,rm203
+204,Double,68.0,32.0,true,double-bed,2,0,rm204
+205,Double,68.0,32.0,true,double-bed,2,0,rm205
+301,Suite,100.0,54.0,true,double-bed,5,0,rm301
+302,Suite,100.0,54.0,true,double-bed,5,0,rm302
+303,Deluxe,150.0,70.0,false,double-bed,10,5,rm303
